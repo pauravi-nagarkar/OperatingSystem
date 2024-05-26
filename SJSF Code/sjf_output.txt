@@ -1,0 +1,31 @@
+enter no of process:
+4
+enter process 1 arrival time:
+
+0
+enter process 1 brust time:
+7
+enter process 2 arrival time:
+2
+enter process 2 brust time:
+4
+enter process 3 arrival time:
+4
+enter process 3 brust time:
+1
+enter process 4 arrival time:
+5
+enter process 4 brust time:
+1
+
+process_id  arrival_time   brust_time   complete_time  turn_around_time   waiting_time
+1		0		7		7		7		0
+3		2		4		13		11		7
+4		4		1		8		4		3
+2		5		1		9		4		3
+
+average turn_around_time is 6.5
+average wait_time is 3.25
+1 3 4 2 
+
+** Process exited - Return Code: 0 **

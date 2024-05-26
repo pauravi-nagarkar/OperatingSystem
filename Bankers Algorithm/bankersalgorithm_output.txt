@@ -1,0 +1,76 @@
+Enter total number of Bank Clinets
+
+5
+Enter total requests Available
+3
+Enter the availability of request0: 
+3
+Enter the availability of request1: 
+3
+Enter the availability of request2: 
+2
+Enter the max request0 that can be allocated to client0: 
+7
+Enter the max request1 that can be allocated to client0: 
+5
+Enter the max request2 that can be allocated to client0: 
+3
+Enter the max request0 that can be allocated to client1: 
+3
+Enter the max request1 that can be allocated to client1: 
+2
+Enter the max request2 that can be allocated to client1: 
+2
+Enter the max request0 that can be allocated to client2: 
+9
+Enter the max request1 that can be allocated to client2: 
+0
+Enter the max request2 that can be allocated to client2: 
+2
+Enter the max request0 that can be allocated to client3: 
+2
+Enter the max request1 that can be allocated to client3: 
+
+2
+Enter the max request2 that can be allocated to client3: 
+2
+Enter the max request0 that can be allocated to client4: 
+4
+Enter the max request1 that can be allocated to client4: 
+3
+Enter the max request2 that can be allocated to client4: 
+3
+How many units of request0 are allocated to client0? 
+0
+How many units of request1 are allocated to client0? 
+1
+How many units of request2 are allocated to client0? 
+0
+How many units of request0 are allocated to client1? 
+2
+How many units of request1 are allocated to client1? 
+0
+How many units of request2 are allocated to client1? 
+0
+How many units of request0 are allocated to client2? 
+3
+How many units of request1 are allocated to client2? 
+0
+How many units of request2 are allocated to client2? 
+2
+How many units of request0 are allocated to client3? 
+2
+How many units of request1 are allocated to client3? 
+1
+How many units of request2 are allocated to client3? 
+1
+How many units of request0 are allocated to client4? 
+0
+How many units of request1 are allocated to client4? 
+0
+How many units of request2 are allocated to client4? 
+
+2
+The system is in safe state sequence follows: P1 P3 P4 P0 P2 
+
+** Process exited - Return Code: 0 **
